@@ -5,7 +5,7 @@ This is a project to practice applying random forest onto a dataset. The objecti
 1. [House price estimation.ipynb](https://github.com/jerrell-y/house-price-estimation/blob/main/House%20price%20estimation.ipynb)
 2. [train.csv](https://github.com/jerrell-y/house-price-estimation/blob/main/train.csv)
 3. [test.csv](https://github.com/jerrell-y/house-price-estimation/blob/main/test.csv)
-4. [sample_submission.csv](https://github.com/jerrell-y/house-price-estimation/blob/main/sample_submission.csv)
+4. [df_final.csv](https://github.com/jerrell-y/house-price-estimation/blob/main/df_final.csv)
 5. [data_description.txt](https://github.com/jerrell-y/house-price-estimation/blob/main/data_description.txt)
 
 
